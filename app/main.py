@@ -51,7 +51,7 @@ index_html = """
     <body>
         <h1>嘻嘻 ... ... 他真的信了，他全信了 ~!</h1>
         <img src="/static/imgs/index.png" height=600px/>
-        <p>累计被骗人数： total_num</p>
+        <p>非罡累计： total_num</p>
         
         <footer>
             <p><small>北京漫展坐忘道群友六二六</small></p>
